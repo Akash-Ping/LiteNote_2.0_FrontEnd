@@ -1,1 +1,1 @@
-export const BASE_URL = "https://litenote-backend.onrender.com"
+export const BASE_URL = "https://famous-calf-wear.cyclic.app/"
