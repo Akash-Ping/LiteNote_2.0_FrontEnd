@@ -8,3 +8,6 @@ The app has a beautiful user interface that makes it easy for users to navigate 
 Finally, the app has been deployed on two different platforms. The backend server has been deployed on Cyclic, while the frontend has been deployed on Vercel. This ensures that the app is accessible from anywhere in the world and can handle a large number of concurrent users without any issues.
 
 Overall, the "Notes App using MERN stack" is an excellent resource for developers who want to learn full-stack web development using the MERN stack. The app's security features, user interface, and deployment on different platforms make it a complete and well-rounded application.
+
+
+Link : https://lite-note-2-0-front-end.vercel.app/
