@@ -1,1 +1,1 @@
-export const BASE_URL = "https://spring-green-bluefish-cape.cyclic.app/"
+export const BASE_URL = "https://litenote-backend.onrender.com"
